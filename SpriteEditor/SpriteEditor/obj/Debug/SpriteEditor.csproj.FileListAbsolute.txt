@@ -1,0 +1,10 @@
+C:\Users\Trouble\source\repos\SpriteEditor\SpriteEditor\bin\Debug\SpriteEditor.exe.config
+C:\Users\Trouble\source\repos\SpriteEditor\SpriteEditor\bin\Debug\SpriteEditor.exe
+C:\Users\Trouble\source\repos\SpriteEditor\SpriteEditor\bin\Debug\SpriteEditor.pdb
+C:\Users\Trouble\source\repos\SpriteEditor\SpriteEditor\obj\Debug\SpriteEditor.csprojAssemblyReference.cache
+C:\Users\Trouble\source\repos\SpriteEditor\SpriteEditor\obj\Debug\SpriteEditor.Form1.resources
+C:\Users\Trouble\source\repos\SpriteEditor\SpriteEditor\obj\Debug\SpriteEditor.Properties.Resources.resources
+C:\Users\Trouble\source\repos\SpriteEditor\SpriteEditor\obj\Debug\SpriteEditor.csproj.GenerateResource.cache
+C:\Users\Trouble\source\repos\SpriteEditor\SpriteEditor\obj\Debug\SpriteEditor.csproj.CoreCompileInputs.cache
+C:\Users\Trouble\source\repos\SpriteEditor\SpriteEditor\obj\Debug\SpriteEditor.exe
+C:\Users\Trouble\source\repos\SpriteEditor\SpriteEditor\obj\Debug\SpriteEditor.pdb
